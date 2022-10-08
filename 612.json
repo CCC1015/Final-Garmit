@@ -1,0 +1,35 @@
+{
+    "name": "Metabots #613",
+    "symbol": "METABOTS",
+    "image": "612.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "612.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": []
+    },
+    "description": "A web3 community driven project of metabots on the solana blockchain. We are an art collab project with arcade revenue share.",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "Light (76)"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "lightning Beam"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}
